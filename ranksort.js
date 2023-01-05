@@ -40,7 +40,7 @@ resultArray = [];
 jsonResult = {};
 */
 var arr = [];
-let fuck = {};
+let metadata = {};
 
 resultArray.sort((a, b) => {
   return b.humanreadable - a.humanreadable;
@@ -48,7 +48,7 @@ resultArray.sort((a, b) => {
 
 for(var i = 0; i < resultArray.length; i++) {
   //console.log(json[i].humanreadable);
-  fuck = {
+  metadata = {
     "bin": resultArray[i].bin,
     "bits": resultArray[i].bits,
     "bytes": resultArray[i].bytes,
@@ -59,7 +59,7 @@ for(var i = 0; i < resultArray.length; i++) {
     "rank": i.toString()
   }
 
-  arr.push(fuck);
+  arr.push(metadata);
 }
 
 fs.writeFile(`../BinList/bin-list.json`, JSON.stringify(arr), function (err) {

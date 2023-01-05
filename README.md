@@ -148,6 +148,14 @@ node logo.js
 ```
 [![Logo][logo]](https://github.com/BitByteBin/bin-image-machine)
 
+To generate rarity list:
+* Generate rarity rank list
+```sh
+node ranksort.js
+```
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
