@@ -72,6 +72,7 @@ Each bit can be either 0 or 1, nothing more nothing less, 50/50 chance either wa
 There are however some rules around these numbers, which does bring rarity into play.
 
 ### Rules:
+#### Bits/Byte:
 * 1%-1 Bits/Byte
 * 3%-2 Bits/Byte
 * 6%-3 Bits/Byte
@@ -79,9 +80,11 @@ There are however some rules around these numbers, which does bring rarity into 
 * 4%-5 Bits/Byte
 * 20%-6 Bits/Byte
 * 57%-7 Bits/Byte
+#### Bytes/Line:
 * 1%-1 Bytes/Line
 * 39%-2 Bytes/Line
 * 60%-3 Bytes/Line
+#### Lines:
 * 0.1%-7 Lines
 * 0.9%-8 Lines
 * 99%-9 Lines
@@ -131,12 +134,13 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To generate the Bins there are 2 options:
-
+To generate the Bins:
 * Generate Collection
 ```sh
 node index.js
 ```
+
+To generate a Binary image used for logos and BitByteBin brand styling
 * Generate logo
 ```sh
 node logo.js
@@ -169,7 +173,6 @@ Project Link: [https://github.com/0xStabby/bin-image-machine](https://github.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/0xStabby/bin-image-machine.svg?style=for-the-badge
 [contributors-url]: https://github.com/0xStabby/bin-image-machine/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/0xStabby/bin-image-machine.svg?style=for-the-badge
