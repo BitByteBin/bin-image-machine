@@ -139,12 +139,14 @@ To generate the Bins:
 ```sh
 node index.js
 ```
+[![Product Name Screen Shot][product-screenshot]](https://github.com/BitByteBin/bin-image-machine)
 
-To generate a Binary image used for logos and BitByteBin brand styling
+To generate a Binary image used for logos and BitByteBin brand styling:
 * Generate logo
 ```sh
 node logo.js
 ```
+[![Logo][logo]](https://github.com/BitByteBin/bin-image-machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,6 +186,7 @@ Project Link: [https://github.com/0xStabby/bin-image-machine](https://github.com
 [license-shield]: https://img.shields.io/github/license/0xStabby/bin-image-machine.svg?style=for-the-badge
 [license-url]: https://github.com/0xStabby/bin-image-machine/blob/master/LICENSE.txt
 [product-screenshot]: assets/0.png
+[logo]: logo/1024.png
 [Node.js]: https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=
 [Node.js-url]: https://nodejs.org
 [Probability.js]: https://img.shields.io/badge/Probability.js-magenta?style=for-the-badge
