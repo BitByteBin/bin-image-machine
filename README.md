@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/0xStabby/bin-image-machine">
+  <a href="https://github.com/BitByteBin/bin-image-machine">
     <img src="assets/0.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     Scripts used to generate BitByteBin bins metadata and base64 images
     <br />
-    <a href="https://github.com/0xStabby/bin-image-machine"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BitByteBin/bin-image-machine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/0xStabby/bin-image-machine">View Demo</a>
+    <a href="https://github.com/BitByteBin/bin-image-machine">View Demo</a>
     ·
-    <a href="https://github.com/0xStabby/bin-image-machine/issues">Report Bug</a>
+    <a href="https://github.com/BitByteBin/bin-image-machine/issues">Report Bug</a>
     ·
-    <a href="https://github.com/0xStabby/bin-image-machine/issues">Request Feature</a>
+    <a href="https://github.com/BitByteBin/bin-image-machine/issues">Request Feature</a>
   </p>
 </div>
 
@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/0xStabby/bin-image-machine.git
+   git clone https://github.com/BitByteBin/bin-image-machine.git
    ```
 2. Install NPM packages
    ```sh
@@ -176,23 +176,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 BitByteBin Twitter: [@BitByteBin](https://twitter.com/BitByteBin)
 
-Project Link: [https://github.com/0xStabby/bin-image-machine](https://github.com/0xStabby/bin-image-machine)
+Project Link: [https://github.com/BitByteBin/bin-image-machine](https://github.com/BitByteBin/bin-image-machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/0xStabby/bin-image-machine.svg?style=for-the-badge
-[contributors-url]: https://github.com/0xStabby/bin-image-machine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/0xStabby/bin-image-machine.svg?style=for-the-badge
-[forks-url]: https://github.com/0xStabby/bin-image-machine/network/members
-[stars-shield]: https://img.shields.io/github/stars/0xStabby/bin-image-machine.svg?style=for-the-badge
-[stars-url]: https://github.com/0xStabby/bin-image-machine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/0xStabby/bin-image-machine.svg?style=for-the-badge
-[issues-url]: https://github.com/0xStabby/bin-image-machine/issues
-[license-shield]: https://img.shields.io/github/license/0xStabby/bin-image-machine.svg?style=for-the-badge
-[license-url]: https://github.com/0xStabby/bin-image-machine/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BitByteBin/bin-image-machine.svg?style=for-the-badge
+[contributors-url]: https://github.com/BitByteBin/bin-image-machine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BitByteBin/bin-image-machine.svg?style=for-the-badge
+[forks-url]: https://github.com/BitByteBin/bin-image-machine/network/members
+[stars-shield]: https://img.shields.io/github/stars/BitByteBin/bin-image-machine.svg?style=for-the-badge
+[stars-url]: https://github.com/BitByteBin/bin-image-machine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BitByteBin/bin-image-machine.svg?style=for-the-badge
+[issues-url]: https://github.com/BitByteBin/bin-image-machine/issues
+[license-shield]: https://img.shields.io/github/license/BitByteBin/bin-image-machine.svg?style=for-the-badge
+[license-url]: https://github.com/BitByteBin/bin-image-machine/blob/master/LICENSE.txt
 [product-screenshot]: assets/0.png
 [logo]: logo/1024.png
 [Node.js]: https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=
