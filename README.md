@@ -164,9 +164,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-0xStabby-Twitter: [@0xStabby](https://twitter.com/0xStabby)
+0xStabby Twitter: [@0xStabby](https://twitter.com/0xStabby)
 
-BitByteBin-Twitter: [@BitByteBin](https://twitter.com/BitByteBin)
+BitByteBin Twitter: [@BitByteBin](https://twitter.com/BitByteBin)
 
 Project Link: [https://github.com/0xStabby/bin-image-machine](https://github.com/0xStabby/bin-image-machine)
 
