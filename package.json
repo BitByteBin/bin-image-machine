@@ -1,0 +1,17 @@
+{
+  "name": "bin-nft",
+  "version": "1.0.0",
+  "description": "bin NFT project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-data-uri": "^2.0.1",
+    "mathjs": "^9.4.5",
+    "text-to-image": "^4.0.0",
+    "underscore": "^1.13.1"
+  }
+}
